@@ -14,6 +14,7 @@ CSS3,
 javascript,
 
 Installation: 
+
 Clone the repository to your local machine.
 Navigate to the project directory.
 Install dependencies using 'npm install'.
