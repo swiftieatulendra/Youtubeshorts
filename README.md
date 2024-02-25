@@ -2,16 +2,16 @@ Description:
 This is a short video player app built using React. It allows users to watch short videos, like, dislike.
 
 Features:
-Play short videos
-Like and dislike videos
-Subscribe to channels
+Play short videos ,
+Like and dislike videos ,
+Subscribe to channels.
 
 Technologies Used:
-React
-Material-UI
-HTML5
-CSS3
-javascript
+React ,
+Material-UI,
+HTML5,
+CSS3,
+javascript,
 
 Installation
 Clone the repository to your local machine.
