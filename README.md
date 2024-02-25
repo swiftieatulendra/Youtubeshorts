@@ -4,7 +4,6 @@ This is a short video player app built using React. It allows users to watch sho
 
 
 Features:
-
 Play short videos 
 
 Like and dislike videos 
